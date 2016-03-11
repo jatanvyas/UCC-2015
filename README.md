@@ -1,0 +1,6 @@
+# UCC-2015
+Repo for University CanSat Challenge 2015, India ( http://www.ardl.org/#!ucc2015/cuts ) 
+
+The University CanSat Challenge – CanSat comes to India is a design-build-fly competition that provides teams with an opportunity to experience the design life-cycle of an aerospace system. The University CanSat Challenge is designed to reflect a typical aerospace program on a small scale. The mission and its requirements are designed to reflect various aspects of real world missions including telemetry requirements, communications, and autonomous operations. Each team is scored throughout the challenge on real world deliverables such as schedules, design reviews, and demonstration flights. This challenge will provide the background knowledge needed to facilitate near earth explorations in their own classroom. Here you will get to learn about how to proceed on like a conceptual satellite design phase gearing you up for future space missions. It’s a multi-disciplinary project involving all the departments of engineering and certainly will take you further into building space missions.
+
+This repo includes all files (code and PCB designs) created by me and used by my team Kranti, a part of Drishti, Sardar Vallabhbhai National Institute of Technology (SVNIT). We also secured first position in this competition.(yay!)
